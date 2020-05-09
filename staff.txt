@@ -1,0 +1,9 @@
+full name: Ranti Olubi
+username: Olubi
+password: ROlubi22
+email: rolubi@rexbank.com
+
+full name: Blessing Okakwu
+username: Okaks
+password: bokaks18
+email: bokakwu@gmail.com
